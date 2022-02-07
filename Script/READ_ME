@@ -1,0 +1,14 @@
+Read me:
+
+1 - Population_model: function to simulate population dynamics with a matrix model (clean)
+
+2 - Scenario_simulation: code to simulate multi-scenario (reaction norm, trait-demographic rate relationship, climat, strategies). Used on the GIS server (clean)
+
+3 - Hypothesis: code to create figures in response to the hypothesis into the manuscript (still in process for cleaning)
+
+4 - Test_function: place where I play with funtion and piece of code for each part of the Population_model.
+
+5 - Figure interaction: figure to represent interaction. 
+
+6 - Relative_importance: I am trying to solve the problem
+
